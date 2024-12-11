@@ -20,18 +20,7 @@ function Mau() {
       <div className="text-center px-3 sm:px-10 text-white">
         <h2 className="text-4xl sm:text-5xl">Open It</h2>
         <p className="text-base sm:text-lg sm:max-w-[70vw]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ea
-          aliquid odio perferendis, quia quaerat sed iste dolores obcaecati
-          consequatur tempore. Provident similique corrupti repellendus non
-          aliquam et accusamus autem, inventore nihil hic ipsa obcaecati ea,
-          sint nesciunt quisquam eveniet labore velit tempore. Sequi, optio?
-          Voluptatem, molestiae? Suscipit cum odio enim explicabo deleniti. Sint
-          rerum ab cupiditate obcaecati ratione. Natus voluptatum, consequatur
-          asperiores in quis adipisci delectus voluptatem sed nemo, vitae
-          molestiae veritatis, voluptas corrupti quisquam iure dolorem qui
-          doloribus impedit numquam saepe at quae velit totam! Corporis itaque
-          eveniet dolorem provident quos voluptatem natus, nostrum esse possimus
-          architecto reiciendis?
+          So yeh paragraph us ladki ke liye hai jiska nam Aashik Bhardwaj hai and woh meri pyari c wifeee hai and Mai use is dunia mai kisi aur insan se jyada pyar krta hu, and karta rahunga kyuki woh meri cutie catty hai, woh itni pyari c hai ki mujhe kabhi kabhi khyal aata hai ki woh meri girlfriend kaise ho skti. Prr woh meri girlfriend and future wife hai. Aye kya sharma rahi ho mai tumhari hi bat krr raha hu meri billi. Haa mujhe pta hai ki abhi time hai kafi jyada hmari shadi Mai prr mai tumhe abhi se apni wife manta hu. Kyuki tum ho chup chap haa bol diyo jis din mai purpose karu shaddi ke liye, samjhi. Meri cutie billi tum jaisi ladki maine ajj tak nhi dekhi, agar koi aur hogi bhi to abb mujhe nhi dekhni, kyuki mujhe mere wali mill chuki hai.  I love meri catty, I Love So much meri pyari c beti ki mummy, I love you soo much ❤️❤️.
         </p>
         <div className="flex gap-3 items-center justify-center mt-4">
           <button
