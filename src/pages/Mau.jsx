@@ -51,10 +51,10 @@ function Mau() {
         </div>
         <audio
           ref={audioRef}
-          src="/audio/meow.mp3"
+          src="/audio/catt.ogg"
           className="hidden"
           loop
-          muted
+          
         ></audio>
       </div>
       <div className="h-screen bg-black w-screen absolute -z-20"></div>
