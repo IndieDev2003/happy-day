@@ -1,16 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+.outfit {
+  font-family: "Outfit";
+}
+.nunito {
+  font-family: "Nunito";
+}
+.fairplay {
+  font-family: "Playfair";
+}
+.oswald {
+  font-family: "Oswald";
+  
+}
+.hero-btn {
+  @apply border border-opacity-0  px-10 py-2 text-2xl rounded-full dark:shadow-white dark:shadow-md dark:bg-blue-400  bg-slate-300 shadow-xl drop-shadow-2xl;
+}
 
-.outfit{
-  font-family: 'Outfit';
+::-webkit-scrollbar{
+  display:none ;
 }
-.fairplay{
-  font-family: 'Playfair';
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
 }
-.oswald{
-  font-family: 'Oswald';
-}
+
