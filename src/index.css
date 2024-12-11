@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.outfit{
+  font-family: 'Outfit';
+}
+.fairplay{
+  font-family: 'Playfair';
+}
+.oswald{
+  font-family: 'Oswald';
+}
