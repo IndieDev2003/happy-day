@@ -60,7 +60,7 @@ function Mau() {
       <div className="h-screen bg-black w-screen absolute -z-20"></div>
       <img
         src="https://i.pinimg.com/1200x/95/65/3b/95653b5b50ed6fdd815c4c4930570eb1.jpg"
-        className="absolute -z-10 object-bottom object-cover opacity-70 h-full sm:w-full "
+        className="absolute -z-10 object-bottom object-cover opacity-50 h-full sm:w-full "
         alt=""
       />
     </div>
